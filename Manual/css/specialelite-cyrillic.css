@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Special Elite';
+  src: url('specialelite-cyrillic.woff') format('woff'),
+       url('specialelite-cyrillic.ttf')  format('truetype');
+}
